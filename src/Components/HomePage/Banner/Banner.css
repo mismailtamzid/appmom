@@ -1,0 +1,20 @@
+.banner{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 100vh;
+    background-image: url("../../../images/bg-1.jpg");
+    background-position: cover;
+    background-repeat: no-repeat;  
+    
+}
+.banner1{
+    width: 35%;
+}
+button{
+    padding: 10px 20px;
+    background-color: azure;
+    margin: 10px;
+    border-radius: 5px;
+    border: none;
+}

@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+.link{
+    text-decoration: none;
+    font-weight: 500;
+    color: aliceblue;
+    font-family: 'Lato', sans-serif;
+}
+.link:hover{
+ padding-bottom: 2px;
+ padding: 17px 0px;
+ background-color: #b1a1cf;
+}
+.linkBrand{
+    text-decoration: none;
+    font-size: larger;
+    font-weight: 700;
+    color: aliceblue;
+}
+.navbar{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #3C2860;
+    
+    
+}
+ul li{
+    display: inline-block;
+    margin: 0px 10px;
+}
